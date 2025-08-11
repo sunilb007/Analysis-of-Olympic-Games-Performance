@@ -1,4 +1,5 @@
 **Analysis of Olympic Games Performance**
+
 A comprehensive data analytics project that explores over 120 years of Olympic history. Using athlete-level data, this project investigates trends in medal distribution, country performance, sports-specific dominance, and more—powered by Python, Pandas, and Matplotlib.
 ________________________________________
 Dataset
